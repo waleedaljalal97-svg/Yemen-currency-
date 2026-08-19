@@ -1,0 +1,9 @@
+{
+  "name": "أسعار العملات في اليمن",
+  "short_name": "العملات",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "تطبيق لمعرفة أسعار العملات في اليمن"
+}
